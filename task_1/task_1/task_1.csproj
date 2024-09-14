@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resources\Juniors20.csv" />
+    <None Remove="resources\Juniors5.csv" />
+    <None Remove="resources\Teamleads20.csv" />
+    <None Remove="resources\Teamleads5.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="resources\Juniors20.csv" />
+    <EmbeddedResource Include="resources\Juniors5.csv" />
+    <EmbeddedResource Include="resources\Teamleads20.csv" />
+    <EmbeddedResource Include="resources\Teamleads5.csv" />
+  </ItemGroup>
+
+</Project>

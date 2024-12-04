@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB879443-C6F8-486C-A758-B19FA28CEB47}|Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj|c:\\life\\nsu\\4course\\1semestr\\c#\\konkurs\\nsu.hackathonproblem.ponomarevateambuildingstrategy\\nsu.hackathonproblem.ponomarevateambuildingstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB879443-C6F8-486C-A758-B19FA28CEB47}|Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj|solutionrelative:nsu.hackathonproblem.ponomarevateambuildingstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Program.cs",
+              "RelativeDocumentMoniker": "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Program.cs",
+              "ToolTip": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Program.cs",
+              "RelativeToolTip": "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:41:00.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

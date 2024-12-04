@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pa/liFJ4drY=",
+  "dgSpecHash": "AlJyoGwPTqI=",
   "success": true,
-  "projectFilePath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj",
+  "projectFilePath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\C-Sharp\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luda\\.nuget\\packages\\hungarianalgorithm\\2.3.2\\hungarianalgorithm.2.3.2.nupkg.sha512"
   ],

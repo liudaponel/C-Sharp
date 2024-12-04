@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
+      "projectUniqueName": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\C-Sharp\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
       "projectName": "Nsu.HackathonProblem.Contracts",
-      "projectPath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
+      "projectPath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\C-Sharp\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
       "packagesPath": "C:\\Users\\Luda\\.nuget\\packages\\",
-      "outputPath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\konkurs\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\obj\\",
+      "outputPath": "C:\\LIFE\\NSU\\4course\\1semestr\\C#\\C-Sharp\\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

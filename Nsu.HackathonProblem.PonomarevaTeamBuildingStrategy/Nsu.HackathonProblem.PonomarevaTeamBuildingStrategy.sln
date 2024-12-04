@@ -3,9 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy", "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj", "{DB879443-C6F8-486C-A758-B19FA28CEB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy", "Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy.csproj", "{DB879443-C6F8-486C-A758-B19FA28CEB47}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2E72A41D-4D4C-42DE-B835-9E9160D8BE79} = {2E72A41D-4D4C-42DE-B835-9E9160D8BE79}
+	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.HackathonProblem.Contracts", "Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts.csproj", "{612BF499-2ADB-485C-82E7-A78EC2630A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.HackathonProblem.Contracts", "Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts.csproj", "{2E72A41D-4D4C-42DE-B835-9E9160D8BE79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +20,10 @@ Global
 		{DB879443-C6F8-486C-A758-B19FA28CEB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB879443-C6F8-486C-A758-B19FA28CEB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB879443-C6F8-486C-A758-B19FA28CEB47}.Release|Any CPU.Build.0 = Release|Any CPU
-		{612BF499-2ADB-485C-82E7-A78EC2630A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{612BF499-2ADB-485C-82E7-A78EC2630A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{612BF499-2ADB-485C-82E7-A78EC2630A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{612BF499-2ADB-485C-82E7-A78EC2630A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E72A41D-4D4C-42DE-B835-9E9160D8BE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E72A41D-4D4C-42DE-B835-9E9160D8BE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E72A41D-4D4C-42DE-B835-9E9160D8BE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E72A41D-4D4C-42DE-B835-9E9160D8BE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

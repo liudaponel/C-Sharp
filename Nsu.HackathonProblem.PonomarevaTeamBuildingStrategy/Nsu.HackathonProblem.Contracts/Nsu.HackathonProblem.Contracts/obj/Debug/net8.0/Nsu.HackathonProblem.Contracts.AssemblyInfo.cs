@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nsu.HackathonProblem.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c968e162e0659bb1c55f57f9702877ffb7a5127")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nsu.HackathonProblem.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nsu.HackathonProblem.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

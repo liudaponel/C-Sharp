@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nsu.HackathonProblem.Contracts
-build_property.ProjectDir = C:\LIFE\NSU\4course\1semestr\C#\konkurs\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\Nsu.HackathonProblem.Contracts\
+build_property.ProjectDir = C:\LIFE\NSU\4course\1semestr\C#\C-Sharp\Nsu.HackathonProblem.PonomarevaTeamBuildingStrategy\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
